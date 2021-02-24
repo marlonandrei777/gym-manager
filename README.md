@@ -12,7 +12,7 @@
 
 ## 💻 Projeto
 
-O Gym Manager é uma aplicação para cadastro de alunos e professores de academia
+O Gym Manager é uma aplicação para cadastro de alunos e professores de academia.
 
 ## 🔥 Tecnologias
 
