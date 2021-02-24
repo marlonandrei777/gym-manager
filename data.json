@@ -1,0 +1,57 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "http://google.com",
+      "name": "lay",
+      "email": "layane@hotmail.com",
+      "birth": 761788800000,
+      "gender": "F",
+      "blood": "B-",
+      "weight": "05202",
+      "height": "2626"
+    },
+    {
+      "id": 2,
+      "avatar_url": "http://google.com",
+      "name": "lorena",
+      "email": "lorena@hotmail.com",
+      "birth": 761788800000,
+      "gender": "F",
+      "blood": "B-",
+      "weight": "05202",
+      "height": "2626"
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8Z3ltfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Rafa",
+      "email": "rafael.sena@hotmail.com",
+      "birth": 796089600000,
+      "gender": "M",
+      "blood": "AB+",
+      "weight": "6262626",
+      "height": "2626262"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8Z3ltfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Marlon",
+      "birth": 761788800000,
+      "gender": "M",
+      "services": "Musculação, Crossfit",
+      "created_at": 1607384679901
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1594737626072-90dc274bc2bd?ixid=MXwxMjA3fDF8MHxzZWFyY2h8MXx8Z3ltfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Eve",
+      "birth": 761788800000,
+      "gender": "F",
+      "services": "Musculação",
+      "created_at": 1607475556902
+    }
+  ]
+}
